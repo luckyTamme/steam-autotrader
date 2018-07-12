@@ -1,0 +1,17 @@
+{
+  "name": "steam-autotrader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZeCjy",
+  "license": "ISC",
+  "dependencies": {
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^3.27.1",
+    "steamcommunity": "^3.36.2"
+  }
+}

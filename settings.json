@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "username": "",
+            "password": "",
+            "shared_secret": "",
+            "identity_secret": ""
+        },
+        {
+            "username": "",
+            "password": "",
+            "shared_secret": "",
+            "identity_secret": ""
+        }
+    ],
+    "trade_key": "bot-offer"
+}
