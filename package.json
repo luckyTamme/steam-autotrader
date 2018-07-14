@@ -9,9 +9,10 @@
   "author": "ZeCjy",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "steam-totp": "^2.1.0",
     "steam-tradeoffer-manager": "^2.9.3",
-    "steam-user": "^3.27.1",
+    "steam-user": "^3.28.0",
     "steamcommunity": "^3.36.2"
   }
 }
