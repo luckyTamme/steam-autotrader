@@ -8,9 +8,9 @@ var fs = require('fs');
 
 var settings = JSON.parse(fs.readFileSync('settings.json', 'utf8'));
 
-var steamUser = [];
-var tradeManager = [];
-var steamCommunity = [];
+var steamUser = [settings.users.length];
+var tradeManager = [settings.users.length];
+var steamCommunity = [settings.users.length];
 
 for(var userIndex=0; userIndex<settings.users.length; userIndex++) {
     let userSettings = settings.users[userIndex];
