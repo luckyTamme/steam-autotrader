@@ -21,7 +21,7 @@ node app
 If you wish to run it in background you can use forever
 ```
 npm install -g forever
-forever start app
+forever start app.js
 ```
 
 ### **Trading:**
